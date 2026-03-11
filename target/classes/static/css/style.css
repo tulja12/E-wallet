@@ -1,0 +1,51 @@
+body{
+    background: white ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.page-title{
+    font-weight:600;
+    color:black;
+}
+
+h2{
+    color: black;
+}
+.card{
+    border-radius:15px;
+    border:10px;
+}
+
+.wallet-card{
+    border-radius:15px;
+}
+
+.wallet-balance{
+    font-size:32px;
+    font-weight:600;
+    color:#27ae60;
+}
+
+.btn{
+    border-radius:10px;
+    transition:0.2s;
+}
+
+
+.btn:hover{
+    transform:scale(1.05);
+}
+
+
+form input{
+    border-radius:8px;
+}
+
+.table{
+    border-radius:10px;
+    overflow:hidden;
+}
+
+.logout-btn{
+    margin-top:40px;
+}
